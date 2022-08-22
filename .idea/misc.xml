@@ -5,6 +5,7 @@
     <file type="web" url="file://$PROJECT_DIR$/java/annalyns-infiltration" />
     <file type="web" url="file://$PROJECT_DIR$/java/hello-world" />
     <file type="web" url="file://$PROJECT_DIR$/java/lasagna" />
+    <file type="web" url="file://$PROJECT_DIR$/java/log-levels" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="openjdk-18" project-jdk-type="JavaSDK" />
   <component name="ProjectType">
