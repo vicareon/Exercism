@@ -39,6 +39,15 @@
           </set>
         </option>
       </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java/two-fer" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java/two-fer" />
+          </set>
+        </option>
+      </GradleProjectSettings>
     </option>
   </component>
 </project>
