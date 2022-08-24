@@ -4,6 +4,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/java/annalyns-infiltration" />
     <file type="web" url="file://$PROJECT_DIR$/java/blackjack" />
+    <file type="web" url="file://$PROJECT_DIR$/java/gigasecond" />
     <file type="web" url="file://$PROJECT_DIR$/java/hello-world" />
     <file type="web" url="file://$PROJECT_DIR$/java/lasagna" />
     <file type="web" url="file://$PROJECT_DIR$/java/log-levels" />
