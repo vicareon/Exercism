@@ -1,25 +1,14 @@
 public class LogLevels {
     
     public static String message(String logLine) {
-        if(logLine.contains("ERROR")){
-            return logLine.replace("[ERROR]:", "").trim();
-        } else if (logLine.contains("WARNING")) {
-            return logLine.replace("[WARNING]:", "").trim();
-        }
-        else{
-            return logLine.replace("[INFO]:", "").trim();
-        }
+        return logLine.substring(logLine.indexOf(" "))
+                .strip();
     }
 
     public static String logLevel(String logLine) {
-        if(logLine.contains("ERROR")){
-            return "error";
-        } else if (logLine.contains("WARNING")) {
-            return "warning";
-        }
-        else{
-            return "info";
-        }
+        return logLine.substring(1, logLine.indexOf("]"))
+                .toLowerCase()
+                .strip();
     }
 
     public static String reformat(String logLine) {
