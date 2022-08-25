@@ -23,6 +23,15 @@
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java/difference-of-squares" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java/difference-of-squares" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/java/gigasecond" />
         <option name="modules">
           <set>
@@ -63,6 +72,24 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/java/micro-blog" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java/resistor-color" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java/resistor-color" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java/resistor-color-duo" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java/resistor-color-duo" />
           </set>
         </option>
       </GradleProjectSettings>
