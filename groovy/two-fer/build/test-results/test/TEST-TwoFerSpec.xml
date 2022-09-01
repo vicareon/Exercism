@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< Updated upstream
 <testsuite name="TwoFerSpec" tests="1" skipped="0" failures="1" errors="0" timestamp="2022-09-01T12:07:15" hostname="focus" time="0.45">
   <properties/>
   <testcase name="No name given" classname="TwoFerSpec" time="0.45">
@@ -14,5 +15,14 @@ class TwoFer
   </testcase>
   <system-out><![CDATA[One for you, one for me.
 ]]></system-out>
+=======
+<testsuite name="TwoFerSpec" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-09-01T12:16:05" hostname="focus" time="0.28">
+  <properties/>
+  <testcase name="No name given" classname="TwoFerSpec" time="0.244"/>
+  <testcase name="Empty name given" classname="TwoFerSpec" time="0.007"/>
+  <testcase name="A name given" classname="TwoFerSpec" time="0.013"/>
+  <testcase name="Another name given" classname="TwoFerSpec" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+>>>>>>> Stashed changes
   <system-err><![CDATA[]]></system-err>
 </testsuite>
