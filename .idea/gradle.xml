@@ -105,6 +105,15 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java/grains" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java/grains" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="delegatedBuild" value="true" />
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
@@ -187,6 +196,15 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/java/reverse-string" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java/scrabble-score" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java/scrabble-score" />
           </set>
         </option>
       </GradleProjectSettings>

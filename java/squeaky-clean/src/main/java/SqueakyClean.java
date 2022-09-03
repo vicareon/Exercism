@@ -1,7 +1,11 @@
 class SqueakyClean {
     static String clean(String identifier) {
-        return identifier.replaceAll(" ", "_");
-                //.replaceFirst("^[^\\x01-\\x1A]+$", "CTRL");
-                //.replaceAll("-", "");
+        if(identifier.contains("-")){
+
+        }
+        return identifier.replaceAll(" ", "_")
+                .replaceAll("\\p{Cntrl}", "CTRL")
+                .replaceAll("[α-ω]", "")
+                .replaceAll("[^\\p{L}\\p{P}]", "");
     }
 }
